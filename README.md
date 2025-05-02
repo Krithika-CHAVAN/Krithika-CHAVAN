@@ -19,7 +19,7 @@ I specialize in turning complex data into actionable insights that drive value a
 - Led sales forecasting projects using ARIMA and regression to improve retail decision-making  
 
 📁 Featured Projects:  
-- 🛍️ [Retail Sales Prediction & Demand Forecasting using Data Analysis and Machine Learning]([https://github.com/Krithika-CHAVAN/Peeppal-Sales-prediction-Demand-Forecasting-using-Data-Analysis-and-Machine-Learning/blob/main/README.md])  
+- 🛍️ [Retail Sales Prediction & Demand Forecasting using Data Analysis and Machine Learning](https://github.com/Krithika-CHAVAN/Peeppal-Sales-prediction-Demand-Forecasting-using-Data-Analysis-and-Machine-Learning/blob/main/README.md)  
 - 📈 Time Series Analysis with ARIMA & Visualization  
 
 
